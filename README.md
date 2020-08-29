@@ -9,14 +9,15 @@ The model creator helps developers to generate the code of their base **_dom** [
 
 Use it :
 - **Online** : [click here](http://www.yorgsite.fr/experiments/_dom_creator/)
-- **Locally**  : clone the repository
- `git clone https://github.com/yorgsite/_dom-model-creator.git`
- and
-open the **index.html** file in your browser to launch the editor.
+- **Locally**  : clone the repository<br/>
+ `git clone https://github.com/yorgsite/_dom-model-creator.git`<br/>
+ and open the **index.html** file in your browser to launch the editor.
 
 The model creator implements many features like :
 - Integrated documentation.
 - Memory optimisation.
 - shadow dom.
 - html templating.
+- templates properties and css handling.
 - arguments.
+- ...
